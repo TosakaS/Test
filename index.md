@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## RNG 赢了？
 
 You can use the [editor on GitHub](https://github.com/TosakaS/Test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
